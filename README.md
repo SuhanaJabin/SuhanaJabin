@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhana Jabin</h1>
 <h3 align="center">Frontend Developer|Deep Learning Enthusiast</h3>
+![](https://github.com/SuhanaJabin/star.gif)
 
 - 🌱 I’m currently learning **CycleGan**
 
