@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhana Jabin</h1>
 <h3 align="center">Frontend Developer|Deep Learning Enthusiast</h3>
 
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/SuhanaJabin/SuhanaJabin/blob/main/star.gif)
 
 - 🌱 I’m currently learning **CycleGan**
 
