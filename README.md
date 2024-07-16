@@ -2,7 +2,6 @@
 <h3 align="center">Frontend Developer | Deep Learning Enthusiast</h3>
 
 
-- 🌱 I’m currently learning **CycleGan**
 
 - 📫 How to reach me **suhanajabinpk@gmail.com**
 
